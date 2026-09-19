@@ -112,7 +112,7 @@ The local database is excluded from GitHub through `.gitignore`.
 
 ## 🎬 Demo
 
-[![MovieVault Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wiy595Lo_TQ)
+[![MovieVault Demo](https://img.youtube.com/vi/wiy595Lo_TQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wiy595Lo_TQ)
 ### Movie Search
 
 
