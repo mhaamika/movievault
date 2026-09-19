@@ -26,3 +26,6 @@ replay_pid*
 
 .env
 movies.db
+.idea/
+target/
+*.class
