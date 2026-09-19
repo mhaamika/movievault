@@ -110,8 +110,7 @@ The local database is excluded from GitHub through `.gitignore`.
 
 ## Screenshots
 
-[movievault video.mov.zip](https://github.com/user-attachments/files/32421155/movievault.video.mov.zip)
-
+https://youtu.be/wiy595Lo_TQ
 
 ### Movie Search
 
