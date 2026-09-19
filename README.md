@@ -110,15 +110,41 @@ The local database is excluded from GitHub through `.gitignore`.
 
 ## Screenshots
 
-## 🎬 Demo
+## Demo Video
+Please watch a few seconds video for a quick demo on how the project runs
 
 [![MovieVault Demo](https://img.youtube.com/vi/wiy595Lo_TQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=wiy595Lo_TQ)
+
 ### Movie Search
 
+1. Handles invalid search results
 
-### Movie Collection
+<img width="1414" height="801" alt="Screenshot 2026-09-19 at 3 09 27 PM" src="https://github.com/user-attachments/assets/dc8b2528-880f-45af-9cfa-bbce8f6731c7" />
 
-*Add a screenshot showing saved movies, ratings, and collection statistics here.*
+2. Search results
+
+<img width="1409" height="803" alt="Screenshot 2026-09-19 at 3 10 19 PM" src="https://github.com/user-attachments/assets/acd2a413-a065-492e-a48f-8c8d28ef7dd7" />
+
+
+3. View details button
+
+<img width="1409" height="809" alt="Screenshot 2026-09-19 at 3 10 52 PM" src="https://github.com/user-attachments/assets/ed12fad8-c0ef-4825-9e48-4a0908191554" />
+
+4. Save Movie button
+
+<img width="1411" height="801" alt="Screenshot 2026-09-19 at 3 11 18 PM" src="https://github.com/user-attachments/assets/52985e20-fc23-42d7-96c2-95aa5d2d6d91" />
+
+
+<img width="1416" height="802" alt="Screenshot 2026-09-19 at 3 11 49 PM" src="https://github.com/user-attachments/assets/25e8871b-c054-4157-989c-9def7e2ac7f8" />
+
+5. Rating
+
+<img width="1411" height="804" alt="Screenshot 2026-09-19 at 3 12 45 PM" src="https://github.com/user-attachments/assets/d4ae3f80-8d97-4326-b306-82563d11dacb" />
+
+6. Delete Movie
+
+<img width="1400" height="809" alt="Screenshot 2026-09-19 at 3 13 27 PM" src="https://github.com/user-attachments/assets/4bb5fc6e-429a-4508-b6e4-246184a9f345" />
+
 
 ## What I Learned
 
